@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "vietngoc0962gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "username": "ngocdv",
+      "password": "123123"
+    }
+  ],
+  "entries": [
+    {
+      "id": "889a",
+      "content": "thank you very much"
+    },
+    {
+      "id": "533b",
+      "content": "everyday very good"
+    },
+    {
+      "id": "beb2",
+      "content": "cam on"
+    }
+  ]
+}
